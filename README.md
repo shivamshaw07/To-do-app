@@ -1,1 +1,1 @@
-# To-do-app Made for learning (Not responsive)
+# To-do-app Made for learning (Not responsive because used pixels as unit)
